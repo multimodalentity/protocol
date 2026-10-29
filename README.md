@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23757281.svg)](https://doi.org/10.5281/zenodo.23757281)
+
 # Experiment Protocol: Validating TACS and IPR
 
 **Version:** 0.1 (draft) | **Author:** S. S. Tumengkol | **Contact:** sst@multimodalentity.org
