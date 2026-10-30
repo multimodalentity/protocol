@@ -1,20 +1,34 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23757281.svg)](https://doi.org/10.5281/zenodo.23757281)
-
 # Experiment Protocol: Validating TACS and IPR
 
-**Version:** 0.1 (draft) | **Author:** S. S. Tumengkol | **Contact:** sst@multimodalentity.org
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23795008.svg)](https://doi.org/10.5281/zenodo.23795008)
 
-**Status:** not yet pre-registered, not yet externally reviewed, no data collected.
+**Version 0.2 (draft), 30 October 2026**
+Author: S. S. Tumengkol, independent researcher (ORCID: https://orcid.org/0009-0004-9426-7060)
+Contact: sst@multimodalentity.org
 
-A controlled experiment (300 original images, five conditions) testing whether a coordinated set of three text anchors (file name, alt text, caption) affects how easily an image is found in search, and whether a reformulated Information-to-Pixel Ratio (IPR) predicts the outcome. Hypotheses, design, and analysis plan are fixed before data collection.
+Status: pre-registration draft. Not yet pre-registered; external review requested, not yet received. No data collected.
+
+A controlled field experiment to test whether three text anchors (file name, alt text, caption) affect whether an image appears in image search, and whether a reformulated information-density score (IPR) predicts the outcome.
 
 ## Files
 
-- `experiment-protocol-tacs-ipr-v0.1.pdf`: the full protocol
+- `experiment-protocol-tacs-ipr-v0.2.pdf`: current version
+- `experiment-protocol-tacs-ipr-v0.1.pdf`: previous version (archived)
+- `CITATION.cff`: how to cite
+- `LICENSE`: CC BY 4.0
+
+## Versions and DOIs
+
+| Version | DOI |
+|---|---|
+| v0.2 (current) | https://doi.org/10.5281/zenodo.23795008 |
+| v0.1 | https://doi.org/10.5281/zenodo.23757281 |
+| All versions of v0.2 | https://doi.org/10.5281/zenodo.23795007 |
 
 ## Links
 
-- Project site: https://multimodalentity.org
+- Website: https://multimodalentity.org
+- Protocol summary: https://multimodalentity.org/protocol.html
 
 ## Disclosure
 
